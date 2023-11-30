@@ -42,5 +42,5 @@ Happy gaming! 🎮
 ---
 
 **About Me:**
-I'm Shubham Kumar Pandey, an aspiring web developer. Connect with me on [Instagram]([your-linkedin-profile-url](https://www.instagram.com/shanky_brahman/?igshid=OGQ5ZDc2ODk2ZA%3D%3D)https://www.instagram.com/shanky_brahman/?igshid=OGQ5ZDc2ODk2ZA%3D%3D) and let's share our knowledge and passion for web development.
+I'm Shubham Kumar Pandey, an aspiring web developer. Connect with me on [Instagram](https://www.instagram.com/shanky_brahman/?igshid=OGQ5ZDc2ODk2ZA%3D%3D) and let's share our knowledge and passion for web development.
 
